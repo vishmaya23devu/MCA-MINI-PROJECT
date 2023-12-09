@@ -1,0 +1,16 @@
+youtube-transcript-summarizer-api/__pycache__/
+youtube-transcript-summarizer-api/youtube_env/
+
+youtube-transcript-summarizer-frontend/node_modules
+youtube-transcript-summarizer-frontend/.pnp
+youtube-transcript-summarizer-frontend/.pnp.js
+youtube-transcript-summarizer-frontend/coverage
+youtube-transcript-summarizer-frontend/build
+youtube-transcript-summarizer-frontend/.DS_Store
+youtube-transcript-summarizer-frontend/.env.local
+youtube-transcript-summarizer-frontend/.env.development.local
+youtube-transcript-summarizer-frontend/.env.test.local
+youtube-transcript-summarizer-frontend/.env.production.local
+youtube-transcript-summarizer-frontend/npm-debug.log*
+youtube-transcript-summarizer-frontend/yarn-debug.log*
+youtube-transcript-summarizer-frontend/yarn-error.log*

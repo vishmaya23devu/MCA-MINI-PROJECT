@@ -1,0 +1,75 @@
+.container {
+    width: 60%;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.boy {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    height: 50%;
+}
+
+
+.loading {
+    margin-top: 150px;
+    height: 300px;
+}
+
+.url-box {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 15px 10px;
+    font-size: 20px;
+}
+
+::placeholder {
+    color: black;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    border-radius: 60px;
+    width: 40px;
+    height: 40px;
+    background-color: #787878;
+    cursor: pointer;
+}
+
+button img {
+    width: 25px;
+}
+
+.search-box-container {
+    display: flex;
+    align-items: center;
+    background-color: rgb(218, 218, 218);
+    border-radius: 60px;
+    padding: 10px 20px;
+}
+
+.button-wrap {
+    background-color: white;
+    border-radius: 5px;
+    color: #000;
+}
+
+.result-box {
+    margin-top: 20px;
+    height: 50vh;
+    width: 80%;
+}
+
+.compression {
+    margin-top: 20px;
+}
+
+.nav-link {
+    color: black;
+}
